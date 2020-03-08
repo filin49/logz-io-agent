@@ -2,6 +2,7 @@
 Lightweight bash script for sending data to logz.io
 ### Configuration
 Put your config file to ```/conf/``` directory. Filename will be use as ```type``` (used in logz.io for parse file).
+
 ```nginx``` file example:
 ```
 /usr/logs/nginx/access.log
